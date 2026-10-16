@@ -55,7 +55,7 @@ _Note: Add more rows as needed._
 |IM - Individual Module         | 10h 14m                  |
 |TP - Team Project              | 4h 21m                   |
 |MTG - Class Meetings           | 2h 49m                   |
-|**TOTAL**                      |                          |
+|**TOTAL**                      | 17h 24m                  |
 
 <br>
 <br>
